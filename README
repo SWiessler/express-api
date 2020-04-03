@@ -1,0 +1,9 @@
+Code created during Node.js Application lab
+
+The directions were relatively easy to follow, there were a few steps where it seemed there was some background understanding that would have made it easier. But I was able to find the information I needed online to complete the assignment, and I feel like I have a much better understanding of how Node.js works. This assignment definitely walked me through some essential commands.
+
+When I entered the commands correctly, the assignment went exactly as expected except for the very last step. I was able to enter the name of a new developer in the index.html, but got this error when I pressed enter: C:\Users\Sarah\express-api\node_modules\mysql\lib\protocol\Parser.js:437 throw err; // Rethrow non-MySQL errors ^
+
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+
+This was the only part I could not get to work.
